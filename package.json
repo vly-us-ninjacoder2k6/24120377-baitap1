@@ -1,0 +1,15 @@
+{
+  "name": "cart-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "npx eslint .",
+    "gate": "node --test && npx eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
+
